@@ -1,0 +1,15 @@
+{
+    "title": "e15 w10",
+    "baseURL": "https:\/\/www.e15w10.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758338",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "e15w10.com"
+    }
+}
